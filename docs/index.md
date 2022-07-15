@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Masahiro Takechi's Resume
+title: Reigns Liu's Resume
 ---
-# Masahiro Takechi
-A CS Japanese student at Brigham Young University - Idaho. 
+# Reigns Liu
+A CS Chinese student at Brigham Young University - Idaho. 
 My dream as a programmer is to create more games for people, I also want to work in a game company to learn more about it. 
 
 
